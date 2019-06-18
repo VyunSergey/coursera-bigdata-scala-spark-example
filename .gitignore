@@ -88,7 +88,5 @@ project/plugins/project/
 .lib/
 
 .idea/
-assignment.sbt
-build.sbt
 project/
-src/
+#src/
